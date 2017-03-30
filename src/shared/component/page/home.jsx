@@ -34,7 +34,7 @@ const HomePage = ({ classes }: { classes: Object }) =>
         />
         <div className="jumbotron">
             <div className="container">
-                <div className="display-3 mb-4">{APP_NAME}</div>
+                <div className="display-3 mb-4">{APP_NAME} on Heroku!</div>
             </div>
         </div>
         <div className="container">
